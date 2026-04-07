@@ -54,6 +54,7 @@ Focused on writing clean, secure, and well-structured code.
 |---|---|---|---|
 | [SAFS](https://github.com/cauaalvs-dev/safs) | Institutional website for a non-profit organization active since 1983 | Next.js · TypeScript · Tailwind | [Live](https://sociedadesafs.org) |
 | [Ideias Jardim](https://github.com/cauaalvs-dev/ideias-jardim) | Landing page for a local gardening business | Next.js · TypeScript · Tailwind | [Live](https://ideias-jardim.vercel.app/) |
+| [Bandeira MKT](https://github.com/cauaalvs-dev/bandeira-mkt) | Landing page for a digital marketing course | Next.js · TypeScript · Tailwind | [Live](https://bandeira-mkt.vercel.app) |
 
 ---
 
