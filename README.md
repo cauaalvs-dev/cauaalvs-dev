@@ -1,9 +1,7 @@
 <div align="center">
 
 # Cauã Alves
-
-### Front-end Developer
-
+### Front-end Developer → Cloud Security
 *Building modern web applications with Next.js, TypeScript & Tailwind CSS*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-alves-0262a53a0/)
@@ -16,9 +14,9 @@
 
 ## About me
 
-Front-end developer focused on building performant, accessible and well-structured web applications. Currently deepening my knowledge in **Next.js**, **TypeScript** and **Tailwind CSS**, with growing interest in **cybersecurity** and **data**.
+Front-end developer with hands-on experience building performant, accessible web applications. Currently transitioning into Cloud Security — studying AWS, Linux, and networking fundamentals alongside a CS degree at Unifor.
 
-I enjoy turning ideas into real products — from local business websites to scalable web apps.
+Focused on writing clean, secure, and well-structured code.
 
 ---
 
@@ -41,6 +39,13 @@ I enjoy turning ideas into real products — from local business websites to sca
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+**Learning**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=flat-square&logo=cisco&logoColor=white)
+
 ---
 
 ## Featured Projects
@@ -54,9 +59,10 @@ I enjoy turning ideas into real products — from local business websites to sca
 
 ## Currently
 
--  Working on new web projects and client sites
--  Studying **cybersecurity** and **data fundamentals**
--  Always improving performance, accessibility and code quality
+- Working on new web projects and client sites
+- Transitioning into **Cloud Security** — AWS, Linux, networking
+- CS student at **Unifor**, Brazil 🇧🇷
+- Always improving performance, accessibility and code quality
 
 ---
 
