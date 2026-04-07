@@ -64,9 +64,7 @@ I enjoy turning ideas into real products — from local business websites to sca
 
 <div align="center">
 
-![Cauã's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauaalvs-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cauaalvs-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=cauaalvs-dev&theme=dark&hide_border=true)
 
 </div>
 
