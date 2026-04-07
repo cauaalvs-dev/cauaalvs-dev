@@ -45,6 +45,7 @@ Focused on writing clean, secure, and well-structured code.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0A66C2?style=flat-square&logo=cisco&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -64,6 +65,7 @@ Focused on writing clean, secure, and well-structured code.
 - Studying AWS, Linux and networking
 - CS student at **Unifor**, Brazil 🇧🇷
 - Always improving performance, accessibility and code quality
+- - Practicing competitive programming (C++)
 
 ---
 
