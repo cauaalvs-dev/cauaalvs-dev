@@ -1,7 +1,7 @@
 <div align="center">
 
 # Cauã Alves
-### Front-end Developer → Cloud Security
+### Front-end Developer & Cloud Security Enthusiast
 *Building modern web applications with Next.js, TypeScript & Tailwind CSS*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-alves-0262a53a0/)
@@ -60,7 +60,7 @@ Focused on writing clean, secure, and well-structured code.
 ## Currently
 
 - Working on new web projects and client sites
-- Transitioning into **Cloud Security** — AWS, Linux, networking
+- Studying AWS, Linux and networking
 - CS student at **Unifor**, Brazil 🇧🇷
 - Always improving performance, accessibility and code quality
 
