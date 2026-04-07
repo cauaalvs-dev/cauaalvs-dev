@@ -65,7 +65,7 @@ Focused on writing clean, secure, and well-structured code.
 - Studying AWS, Linux and networking
 - CS student at **Unifor**, Brazil 🇧🇷
 - Always improving performance, accessibility and code quality
-- - Practicing competitive programming (C++)
+- Practicing competitive programming (C++)
 
 ---
 
