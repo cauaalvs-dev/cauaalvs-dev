@@ -1,8 +1,10 @@
 <div align="center">
 
 # Cauã Alves
-### Front-end Developer & Cloud Security Enthusiast
-*Building modern web applications with Next.js, TypeScript & Tailwind CSS*
+
+### Front-end Developer → Cloud Security
+
+*Building performant web applications while transitioning into offensive security*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-alves-0262a53a0/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ideias-jardim.vercel.app/)
@@ -14,9 +16,9 @@
 
 ## About me
 
-Front-end developer with hands-on experience building performant, accessible web applications. Currently transitioning into Cloud Security — studying AWS, Linux, and networking fundamentals alongside a CS degree at Unifor.
+Front-end developer with hands-on experience building performant, accessible web applications — delivering Lighthouse scores above 90 across client projects.
 
-Focused on writing clean, secure, and well-structured code.
+Currently pursuing a CS degree at Unifor while transitioning into Cloud Security. Interested in offensive security, red teaming, and the intersection between secure software architecture and infrastructure.
 
 ---
 
@@ -39,12 +41,16 @@ Focused on writing clean, secure, and well-structured code.
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-**Learning**
+**Security & Hardware**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0A66C2?style=flat-square&logo=cisco&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Also learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ---
@@ -53,7 +59,8 @@ Focused on writing clean, secure, and well-structured code.
 
 | Project | Description | Stack | Deploy |
 |---|---|---|---|
-| [SAFS](https://github.com/cauaalvs-dev/safs) | Institutional website for a non-profit organization active since 1983 | Next.js · TypeScript · Tailwind | [Live](https://sociedadesafs.org) |
+| [Copygraf](https://github.com/cauaalvs-dev/copygraf) | Landing page for a digital print shop — Lighthouse 95 after full optimization pass | Next.js · TypeScript · Tailwind | [Live](https://copygraf.vercel.app) |
+| [SAFS](https://github.com/cauaalvs-dev/safs) | Institutional website for a non-profit active since 1983 — WordPress → Next.js migration | Next.js · TypeScript · Tailwind | [Live](https://sociedadesafs.org) |
 | [Ideias Jardim](https://github.com/cauaalvs-dev/ideias-jardim) | Landing page for a local gardening business | Next.js · TypeScript · Tailwind | [Live](https://ideias-jardim.vercel.app/) |
 | [Bandeira MKT](https://github.com/cauaalvs-dev/bandeira-mkt) | Landing page for a digital marketing course | Next.js · TypeScript · Tailwind | [Live](https://bandeira-mkt.vercel.app) |
 
@@ -61,11 +68,11 @@ Focused on writing clean, secure, and well-structured code.
 
 ## Currently
 
-- Working on new web projects and client sites
-- Studying AWS, Linux and networking
-- CS student at **Unifor**, Brazil 🇧🇷
-- Always improving performance, accessibility and code quality
-- Practicing competitive programming (C++)
+- Building client web projects as a freelance front-end dev
+- Assembling a hardware hacking lab (ESP32, CC1101, PN532, M5StickC)
+- Studying networking fundamentals, Linux and AWS
+- Practicing competitive programming in C++ at Unifor
+- Roadmap: AWS CCP → eJPT → OSCP
 
 ---
 
@@ -81,7 +88,7 @@ Focused on writing clean, secure, and well-structured code.
 
 <div align="center">
 
-*Feel free to reach out — I'm always open to new projects and collaborations.*
+*Open to freelance projects, collaborations and security research.*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-alves-0262a53a0/)
 
