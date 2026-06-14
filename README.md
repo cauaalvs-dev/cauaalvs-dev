@@ -1,113 +1,99 @@
-<div align="center">
+<!-- cauaalvs-dev :: GitHub profile README -->
 
 ```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   cauaalvs-dev@unifor:~$ whoami                     │
-│   > Cauã Alves                                      │
-│   > Front-end Developer → Cloud Security            │
-│   > Fortaleza, Brazil 🇧🇷                           │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+cauaalvs-dev@unifor:~$ whoami
+ > Cauã Alves
+ > Security researcher in training :: CS @ Unifor
+ > Fortaleza, Brazil
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-alves-0262a53a0/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://copygraf.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cauaalvs-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cauaalvs-dev)
-
-</div>
-
----
-
-```bash
-$ cat about.txt
-```
-
-> Front-end developer with hands-on experience shipping performant, accessible web applications — Lighthouse 90+ across client projects. Currently pursuing a CS degree at Unifor while building toward Cloud Security and red teaming. Interested in offensive security, hardware hacking, and the intersection between secure software architecture and infrastructure.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url)
 
 ---
 
-```bash
-$ ls ./stack
-```
+### $ cat about.txt
+
+> CS student at Unifor focused on offensive and cloud security. I spend my
+> time working through HackTheBox, building security-oriented tooling, and
+> assembling a hardware hacking lab. I come from front-end development and
+> still ship client projects, but my focus now is secure software
+> architecture, infrastructure, and red teaming. Studying toward eJPT and OSCP.
+
+---
+
+### $ ls ./stack
+
+**Security & Systems**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Cloud & Infra**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Hardware**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-**Security & Hardware**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-0A66C2?style=flat-square&logo=cisco&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Also learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
-```bash
-$ ls ./projects --live
-```
+### $ ls ./security
 
-| Project | Description | Stack | Deploy |
-|---|---|---|---|
-| [Copygraf](https://github.com/cauaalvs-dev/copygraf) | Landing page for a digital print shop — Lighthouse 95 after full optimization pass | Next.js · TypeScript · Tailwind | [↗ Live](https://copygraf.vercel.app) |
-| [SAFS](https://github.com/cauaalvs-dev/safs) | Institutional website for a non-profit active since 1983 — WordPress → Next.js migration | Next.js · TypeScript · Tailwind | [↗ Live](https://sociedadesafs.org) |
-| [Ideias Jardim](https://github.com/cauaalvs-dev/ideias-jardim) | Landing page for a local gardening business | Next.js · TypeScript · Tailwind | [↗ Live](https://ideias-jardim.vercel.app/) |
-| [Bandeira MKT](https://github.com/cauaalvs-dev/bandeira-mkt) | Landing page for a digital marketing course | Next.js · TypeScript · Tailwind | [↗ Live](https://bandeira-mkt.vercel.app) |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Bastion** | Security-focused SaaS on AWS. STRIDE threat model, RBAC, JWT auth. Infra on EC2/S3/WAF/GuardDuty with a GitHub Actions CI/CD pipeline running Semgrep SAST. | AWS · Semgrep · GitHub Actions |
+| **HTB write-ups** | Notes and methodology from HackTheBox machines (TwoMillion, Cap, WingData and Starting Point). Focus on understanding the process, not just rooting boxes. | Linux · Nmap · Burp |
+| **Hardware lab** | Ongoing hardware hacking lab: RF, NFC/RFID and BadUSB experiments built around ESP32, CC1101, PN532 and M5StickC. | ESP32 · C · RF |
 
 ---
 
-```bash
-$ cat current_status.log
-```
+### $ ls ./client-work
+
+| Project | Description | Deploy |
+|---------|-------------|--------|
+| copygraf | Landing page for a digital print shop (Lighthouse 95) | [Live](https://copygrafce.com.br) |
+| safs | Institutional site for a non-profit active since 1983, WordPress to Next.js migration | [Live](#) |
+| ideias-jardim | Landing page for a local gardening business | [Live](#) |
+| bandeira-mkt | Landing page for a digital marketing course | [Live](#) |
+
+---
+
+### $ cat status.log
 
 ```
-[ACTIVE]   Freelance front-end dev — shipping client projects
-[ACTIVE]   Assembling hardware hacking lab (ESP32 · CC1101 · PN532 · M5StickC)
-[ACTIVE]   CS student @ Unifor + competitive programming (C++)
-[STUDY]    Networking fundamentals · Linux · AWS
-[ROADMAP]  AWS CCP → eJPT → OSCP
+[ACTIVE]   HackTheBox  ::  machines + pentest methodology
+[ACTIVE]   Bastion     ::  cloud security SaaS on AWS
+[ACTIVE]   Hardware lab ::  ESP32 · CC1101 · PN532 · M5StickC
+[STUDY]    Networking  ·  Linux  ·  AWS
+[ROADMAP]  SAA-C03  →  eJPT  →  OSCP
 ```
 
 ---
 
-```bash
-$ git log --stat
-```
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=cauaalvs-dev&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
-
-</div>
-
----
-
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauaalvs-dev&show_icons=true&hide_border=true&theme=dark)
 
 ```
-cauaalvs-dev@unifor:~$ echo "open to freelance, collabs and security research"
-> open to freelance, collabs and security research
+cauaalvs-dev@unifor:~$ echo "open to security research, collabs and freelance"
+ > open to security research, collabs and freelance
 ```
 
-[![Connect](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-alves-0262a53a0/)
-
-</div>
+[![Let's connect](https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cauaalvs-dev)
