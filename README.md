@@ -66,15 +66,6 @@ cauaalvs-dev@unifor:~$ whoami
 
 ---
 
-### $ ls ./client-work
-
-| Project | Description | Deploy |
-|---------|-------------|--------|
-| copygraf | Landing page for a digital print shop (Lighthouse 95) | [Live](https://copygrafce.com.br) |
-| safs | Institutional site for a non-profit active since 1983, WordPress to Next.js migration | [Live](#) |
-| ideias-jardim | Landing page for a local gardening business | [Live](#) |
-| bandeira-mkt | Landing page for a digital marketing course | [Live](#) |
-
 ---
 
 ### $ cat status.log
